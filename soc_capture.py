@@ -19,12 +19,12 @@ CSV_FILE = "traffic.csv"
 ALERT_FILE = "alert.json"
 
 # ---- Airia Webhook ----
-AIRIA_API_URL = "https://api.airia.ai/v2/PipelineExecution/9cc6c63b-ef60-42fc-b4b2-0e2e374897ed"
-AIRIA_API_KEY = "ak-NzI0MDMyNjA2fDE3NzQzMzY1NDk0NzB8dGktVDNSb1pYSXRUM0JsYmlCU1pXZHBjM1J5WVhScGIyNHRRV2x5YVdFZ1JuSmxaVjlsTW1aa05XSTVOQzB3WlRBMUxUUmxZbVV0WW1JMVl5MHpPVFJoTlRnM00yVXlZamc9fDF8MjU5MzQzODQ0NCAg"
+AIRIA_API_URL = "YOUR_EXECUTION_URL"
+AIRIA_API_KEY = "YOUR_API_KEY"
 
 # Metadata for AI Context
 DESTINATION_HOST = "Kali-SOC-Target"
-DESTINATION_IP = "192.168.56.20"
+DESTINATION_IP = "YOUR_DEST_API"
 SOURCE_HOST = "Ubuntu-Threat-Actor"    
 
 # ------------------------------------------------
