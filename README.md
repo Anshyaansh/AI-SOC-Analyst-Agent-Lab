@@ -33,7 +33,7 @@ Update the `CONFIGURATION` block in `soc_capture.py`:
 ```python
 # Network Variables
 INTERFACE = "eth0"              
-DESTINATION_IP = "192.168.56.20" 
+DESTINATION_IP = "YOUR_DEST_IP" 
 
 # Airia API Credentials
 AIRIA_API_URL = "[https://api.airia.ai/v2/PipelineExecution/YOUR_UNIQUE_ID_HERE](https://api.airia.ai/v2/PipelineExecution/YOUR_UNIQUE_ID_HERE)"
